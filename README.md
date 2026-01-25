@@ -50,7 +50,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your link here)
+- LinkedIn: https://www.linkedin.com/in/akshay-kumar-bolishetti-8b844a377/
 
 ---
 
