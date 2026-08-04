@@ -14,20 +14,17 @@ Passionate about building scalable web applications with Spring Boot, React, and
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=BolishettiAkshay&color=7928CA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/BolishettiAkshay)
-[![Followers](https://img.shields.io/github/followers/BolishettiAkshay?label=Followers&style=for-the-badge&logo=github&color=08C7B4)](https://github.com/BolishettiAkshay?tab=followers)
-
 </div>
 
 ---
 
 ## 📌 About Me
 
-- 💻 **Java Full Stack Developer** specializing in building robust web applications.
-- ⚙️ Skilled in **Spring Boot**, **React**, and designing high-performance **REST APIs**.
-- 🧠 Passionate about **Problem Solving** with **250+ LeetCode problems** solved.
-- 🚀 Currently learning **System Design** and advanced **Backend Development**.
-- 💡 Deeply interested in **scalable applications** and **AI-powered products**.
+- 💻 **Java Developer** building full-stack web applications with **Spring Boot**.
+- ⚙️ Applying concepts like **REST APIs**, **CRUD operations**, **JWT & OAuth2 Authentication** in real projects.
+- 🛠️ Built **2 projects** using Java & Spring Boot, focused on backend architecture and secure APIs.
+- 🧠 Passionate about **Problem Solving** — **200+ LeetCode problems** solved.
+- 🌱 Currently learning **Spring Boot internals** and **React** to grow as a Full Stack Developer.
 
 ---
 
@@ -56,15 +53,12 @@ Passionate about building scalable web applications with Spring Boot, React, and
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚡ Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🛢️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️ Cloud & Deployment
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
@@ -76,7 +70,6 @@ Passionate about building scalable web applications with Spring Boot, React, and
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ### 📝 Other
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -87,28 +80,12 @@ Passionate about building scalable web applications with Spring Boot, React, and
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BolishettiAkshay&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolishettiAkshay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BolishettiAkshay&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BolishettiAkshay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
 
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=BolishettiAkshay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🧩 LeetCode Highlights
-
-<div align="center">
-
-- 🎯 **250+ Problems Solved** across arrays, trees, dynamic programming, and graphs.
-- ⚡ **Strong proficiency in Java** for algorithm implementations.
-- 💡 Deep foundation in **Data Structures & Algorithms**.
-
-<br/>
-
-[![LeetCode Profile](https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AkshayKumarB/)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BolishettiAkshay&theme=tokyonight" alt="GitHub Activity Graph" />
 
 </div>
 
