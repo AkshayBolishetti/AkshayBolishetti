@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Akshay Kumar 👋
+# Hi, I'm Akshay Bolishetti 👋
 
 ### 🔧 Backend-Focused Full Stack Developer | CS Undergrad
 
-<a href="https://github.com/BolishettiAkshay">
+<a href="https://github.com/AkshayBolishetti">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;DSA+Enthusiast;Open+Source+Contributor;GATE+CSE+Aspirant" alt="Typing SVG" />
 </a>
 
@@ -34,7 +34,7 @@ Passionate about building scalable web applications with Spring Boot, React, and
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar-bolishetti-8b844a377/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AkshayKumarB/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://bolishettiakshay.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://akshaybolishetti.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaybolishetti2@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AkshayKuma71184)
 
@@ -81,11 +81,11 @@ Passionate about building scalable web applications with Spring Boot, React, and
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BolishettiAkshay&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BolishettiAkshay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkshayBolishetti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BolishettiAkshay&theme=tokyonight" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshayBolishetti&theme=tokyonight" alt="GitHub Activity Graph" />
 
 </div>
 
