@@ -80,7 +80,7 @@ Passionate about building scalable web applications with Spring Boot, React, and
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BolishettiAkshay&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkshayBolishetti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkshayBolishetti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
