@@ -5,7 +5,7 @@
 ### 🔧 Backend-Focused Full Stack Developer | CS Undergrad
 
 <a href="https://github.com/AkshayBolishetti">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;DSA+Enthusiast;Open+Source+Contributor;GATE+CSE+Aspirant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;DSA+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@ Passionate about building scalable web applications with Spring Boot, React, and
 - 💻 **Java Developer** building full-stack web applications with **Spring Boot**.
 - ⚙️ Applying concepts like **REST APIs**, **CRUD operations**, **JWT & OAuth2 Authentication** in real projects.
 - 🛠️ Built **2 projects** using Java & Spring Boot, focused on backend architecture and secure APIs.
-- 🧠 Passionate about **Problem Solving** — **200+ LeetCode problems** solved.
+- 🧠 Passionate about **Problem Solving** — **250+ LeetCode problems** solved.
 - 🌱 Currently learning **Spring Boot internals** and **React** to grow as a Full Stack Developer.
 
 ---
@@ -94,8 +94,8 @@ Passionate about building scalable web applications with Spring Boot, React, and
 
 ## 🏆 Achievements
 
-- 🏆 **200+ LeetCode Problems**
-- 🏅 **NPTEL Programming in Java**
+- 🏆 **250+ LeetCode Problems**
+- 🏅 **NPTEL Programming in Java — 98% Score | Elite Certificate**
 - 🌟 **Open Source Contributor**
 
 ---
