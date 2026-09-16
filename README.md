@@ -23,7 +23,7 @@ Passionate about building scalable web applications with Spring Boot, React, and
 - 💻 **Java Developer** building full-stack web applications with **Spring Boot**.
 - ⚙️ Applying concepts like **REST APIs**, **CRUD operations**, **JWT & OAuth2 Authentication** in real projects.
 - 🛠️ Built **2 projects** using Java & Spring Boot, focused on backend architecture and secure APIs.
-- 🧠 Passionate about **Problem Solving** — **250+ LeetCode problems** solved.
+- 🧠 Passionate about **Problem Solving** — **300+ LeetCode problems** solved.
 - 🌱 Currently learning **Spring Boot internals** and **React** to grow as a Full Stack Developer.
 
 ---
@@ -94,7 +94,7 @@ Passionate about building scalable web applications with Spring Boot, React, and
 
 ## 🏆 Achievements
 
-- 🏆 **250+ LeetCode Problems**
+- 🏆 **300+ LeetCode Problems**
 - 🏅 **NPTEL Programming in Java — 98% Score | Elite Certificate**
 - 🌟 **Open Source Contributor**
 
